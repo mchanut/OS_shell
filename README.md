@@ -1,6 +1,6 @@
 # Background
 
-This project is the result of a serie of 3 assignments from COMP310 taught by Oana Balmau in Winter2023. 
+This project is the result of a serie of 3 assignments from COMP310 : Operating Systems taught by Oana Balmau in Winter2023. 
 
 The tasks of the first assignment were to add multiple functionalities to the starter shell, such as set, echo, mkdir, cd, touch, ls. We also enhanced batch mode execution and added support for one-liners.
 
