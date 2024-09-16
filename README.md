@@ -8,7 +8,7 @@ The task of the second assignment were to implement the scheduling infrastructur
 
 The tasks for the 3rd assignment were to add scaffolding for paging, design and implement demand paging, and implement the LRU replacement policy in demand paging.
 
-# Diclaimer
+# Disclaimer
 
 The code in this project is partly Professor Balmau's code, used as a starter code for our project.
 Specifically, I did not implement the multithreading scheduler in this project. 
